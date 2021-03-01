@@ -56,7 +56,7 @@ addEventListener(
 * 如果需要其他配置, 可以编辑自己仓库的`config/config.json`文件.
 
 ### 客户端设置
-#### Clash
+#### Clash1
 下面为对应的`vmess`部分设置.修改其中的`server`,`uuid`,`alterId`,`path`就好了.
 ```
   - name: "IBM"
